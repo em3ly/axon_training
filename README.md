@@ -15,8 +15,10 @@ On **axon_training** you will find the solutions by competitor to a series of pr
 # Past contests by theme
 
 - [Fenwick Tree, BIT](https://github.com/em3ly/axon_training/tree/master/Cracking%20Fenwick%20Tree%20to%20the%20root%20V1)
-
-
+- [Those who can not remember the past are condemned to repeat it - DP](https://github.com/em3ly/axon_training/tree/master/Those%20who%20can%20not%20remember%20the%20past%20are%20condemned%20to%20repeat%20it%20-%20DP)
+- [CF-Upsolving v001](https://github.com/em3ly/axon_training/tree/master/CF-Upsolving%20v001)
+- [Playing With Strings](https://github.com/em3ly/axon_training/tree/master/Playing%20With%20Strings)
+- 
 
 # Possible Themes for next contest and suggestions
 
@@ -25,3 +27,7 @@ On **axon_training** you will find the solutions by competitor to a series of pr
 
 - Segment Tree
     - [Goodbye Souvenir](https://codeforces.com/problemset/problem/849/E)
+
+- Aho-Corasick
+
+-Graphs
