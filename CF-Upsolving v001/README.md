@@ -4,57 +4,56 @@
 Codeforces contests 
 
 ## Problems
-**A**: 
+**A**: [Inscribed Figures](https://codeforces.com/problemset/problem/1156/A)
 
-**B**: 
+**B**: [Ugly Pairs](https://codeforces.com/problemset/problem/1156/B)
 
-**C**: 
+**C**: [Match Points](https://codeforces.com/problemset/problem/1156/C)
 
-**D**: 
+**D**: [0-1-Tree](https://codeforces.com/problemset/problem/1156/D)
 
-**E**: 
+**E**: [Special Segments of Permutation](https://codeforces.com/problemset/problem/1156/E)
 
-**F**: 
+**F**: [Card Bag](https://codeforces.com/problemset/problem/1156/F)
 
-**G**: 
+**G**: [Optimizer](https://codeforces.com/problemset/problem/1156/G)
 
-**H**: 
+**H**: [Zoning Restrictions Again](https://codeforces.com/problemset/problem/1162/A)
 
-**I**: 
+**I**: [Double Matrix](https://codeforces.com/problemset/problem/1162/B)
 
-**J**: 
+**J**: [Hide and Seek](https://codeforces.com/problemset/problem/1162/C)
 
-**K**: 
+**K**: [Chladni Figure](https://codeforces.com/problemset/problem/1162/D)
 
-**L**: 
+**L**: [Thanos Nim](https://codeforces.com/problemset/problem/1162/E)
 
-**M**: 
+**M**: [Palindrome XOR](https://codeforces.com/problemset/problem/1162/F)
 
-**N**: 
+**N**: [Eating Soup](https://codeforces.com/problemset/problem/1163/A)
 
-**O**: 
+**O**: [Cat Party (Easy Edition)](https://codeforces.com/problemset/problem/1163/B1)
 
-**P**: 
+**P**: [Cat Party (Hard Edition)](https://codeforces.com/problemset/problem/1163/B2)
 
-**Q**: 
+**Q**: [Power Transmission (Easy Edition)](https://codeforces.com/problemset/problem/1163/C1)
 
-**R**: 
+**R**: [Power Transmission (Hard Edition)](https://codeforces.com/problemset/problem/1163/C2)
 
-**S**:
+**S**: [Mysterious Code](https://codeforces.com/problemset/problem/1163/D)
 
-**T**: 
+**T**: [Magical Permutation](https://codeforces.com/problemset/problem/1163/E)
 
-**U**: 
+**U**: [Indecisive Taxi Fee](https://codeforces.com/problemset/problem/1163/F)
 
-**V**: 
+**V**: [A pile of stones](https://codeforces.com/problemset/problem/1159/A)
 
-**W**: 
+**W**: [Expansion coefficient of the array](https://codeforces.com/problemset/problem/1159/B)
 
-**X**: 
+**X**: [The Party and Sweets](https://codeforces.com/problemset/problem/1159/C)
 
-**Y**: 
+**Y**: [The minimal unique substring](https://codeforces.com/problemset/problem/1159/D)
 
-**Z**: 
-
+**Z**: [Permutation recovery](https://codeforces.com/problemset/problem/1159/E)
 
 ### Resources
