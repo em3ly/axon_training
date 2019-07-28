@@ -18,16 +18,19 @@ On **axon_training** you will find the solutions by competitor to a series of pr
 - [Those who can not remember the past are condemned to repeat it - DP](https://github.com/em3ly/axon_training/tree/master/Those%20who%20can%20not%20remember%20the%20past%20are%20condemned%20to%20repeat%20it%20-%20DP)
 - [CF-Upsolving v001](https://github.com/em3ly/axon_training/tree/master/CF-Upsolving%20v001)
 - [Playing With Strings](https://github.com/em3ly/axon_training/tree/master/Playing%20With%20Strings)
-- 
+- [There are no wrong turnings, Graphs](https://github.com/em3ly/axon_training/tree/master/There%20are%20no%20wrong%20turnings-Graphs)
+- [At last starting with real math!, Math](https://github.com/em3ly/axon_training/tree/master/At%20last%20staring%20with%20real%20math!%20-math)
+- [Educational DP Contest. Atcoder DP Contest Mirror](https://github.com/em3ly/axon_training/tree/master/Educational%20DP%20Contest.%20Atcoder%20DP%20Contest%20mirror)
+
 
 # Possible Themes for next contest and suggestions
 
 - Dynamic Programing
-    - [Atcoder DP](https://atcoder.jp/contests/dp/tasks)
-
 - Segment Tree
     - [Goodbye Souvenir](https://codeforces.com/problemset/problem/849/E)
 
 - Aho-Corasick
 
--Graphs
+- Graphs
+
+- [Exchange arguments](https://codeforces.com/blog/entry/63533)
