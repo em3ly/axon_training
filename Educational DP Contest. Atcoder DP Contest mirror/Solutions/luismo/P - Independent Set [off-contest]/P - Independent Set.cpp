@@ -1,8 +1,8 @@
 /*
 	Author: Luis Manuel D?az Bar?n (LUISMO)
-	Problem:
+	Problem: Independent Set
 	Online Judge:
-	Idea:
+	Idea: DP + Combinatorics + Tree
 */
 #include<bits/stdc++.h>
 // Types
@@ -52,17 +52,15 @@ ll DFS(int idx, int father, int color)
 			if(!color)
 			{
 				ll aux2 = DFS(nxt, idx, 1);
-
+				// rule of sum
 				aux = (aux + aux2) % mod;				
 			}
-
+			// rule of product
 			curr = (curr * aux) % mod;
 		}
 	}
 	mark[idx][color] = true;
 	dp[idx][color] = curr;
-
-	// cout << idx << " " << color << " " << curr << endl;
 
 	return dp[idx][color];
 }
@@ -77,13 +75,12 @@ void solve()
 		adj[xi].push_back(yi);
 		adj[yi].push_back(xi);
 	}
-
+	
+	// starting the coloring with white
 	ll a1 = DFS(1, -1, 0);
-
+	// starting the coloring with black
 	ll a2 = DFS(1, -1, 1);
-
-	// cout << a1 << " "<< a2 << endl;
-
+	// rule of sum
 	ll answ = (a1 + a2) % mod;
 	cout << answ << endl;
 }
