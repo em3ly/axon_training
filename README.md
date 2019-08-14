@@ -5,11 +5,11 @@ On **axon_training** you will find the solutions by competitor to a series of pr
 
 # How to collaborate
 
-    Each contest has a specific sub folder and the information about the specific contest. All problems are selected from existing Online Judge, so if you missed the contest and/or want to collaborate just make a pull request following the standard per competitor:
+Each contest has a specific sub folder and the information about the specific contest. All problems are selected from existing Online Judge, so if you missed the contest and/or want to collaborate just make a pull request following the standard per competitor:
 
-    - Your folder with the solutions to the specific contest.
-    - Each problem with a sub folder for each solved problem. The name of the solution folder should be the same as that of the problem in the README file. You could check existent folders, the structure is easy to follow.
-    - The solutions must be an ACC solution.
+  - Your folder with the solutions to the specific contest.
+  - A sub folder for each solved problem. The name of the solution folder should be the same as that of the problem in the README file, could be shortened to the problem letter. You could check existent folders, the structure is easy to follow.
+  - The solutions must be an ACC solution.
 
 
 # Past contests by theme
@@ -27,7 +27,7 @@ On **axon_training** you will find the solutions by competitor to a series of pr
 
 - Dynamic Programing
 - Segment Tree
-    - [Goodbye Souvenir](https://codeforces.com/problemset/problem/849/E)
+  - [Goodbye Souvenir](https://codeforces.com/problemset/problem/849/E)
 
 - Aho-Corasick
 
