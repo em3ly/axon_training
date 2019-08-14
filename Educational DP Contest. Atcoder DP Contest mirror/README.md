@@ -55,3 +55,9 @@ Dynamic programming, [atcoder contest](https://atcoder.jp/contests/dp/tasks) mir
 **Y**: [Grid 2](https://atcoder.jp/contests/dp/tasks/dp_y)
 
 **Z**: [Frog 3](https://atcoder.jp/contests/dp/tasks/dp_z)
+
+
+
+## Resources
+- [Solutions by Errichto for this atcoder contest (video )](https://www.youtube.com/watch?v=FAQxdm0bTaw)
+- [Solutions by Errichto (source code)](https://github.com/Errichto/youtube/tree/master/atcoder-dp)
